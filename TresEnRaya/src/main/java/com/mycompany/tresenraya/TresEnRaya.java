@@ -11,6 +11,6 @@ package com.mycompany.tresenraya;
 public class TresEnRaya {
 
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        
     }
 }
